@@ -45,4 +45,4 @@ height.
 ## Further info
 For more theoretical details: [Agglomerative_Clustering documentation](docs/Agglomerative_Clustering.pdf)
 
-For code implementation: [agglomerative clustering implementation](main.ipynb)
+For code implementation: [agglomerative clustering implementation](code/main.ipynb)
